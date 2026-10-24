@@ -114,7 +114,8 @@ button a{
 }
 
 .bg-hire{
-    background-image:url('/assets/img/landing/footer_banner.webp');
+    background-image:url('assets/img/landing/footer_banner.webp');
+    
     background-position: left top;
     background-repeat: no-repeat;
     background-size: cover;
