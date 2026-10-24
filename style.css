@@ -59,10 +59,23 @@ button a{
     line-height: 1 !important;
 }
 
+.mt-n2{
+    margin-top: -20px;
+}
+
+.me-n5{
+    margin-right: 50px;
+}
+
 /* header section css */
 .border-blue {
     border-bottom: 1px solid #DBEAFE !important;
     background-color: #EFF6FF !important;
+}
+
+.bg-header{
+    background: #2563EB;
+    background: linear-gradient(180deg, rgba(37, 99, 235, 0.12) 0%, rgba(255, 255, 255, 1) 100%);
 }
 
 /* three side section scc */
@@ -90,4 +103,19 @@ button a{
     background-color: #FE8134;
 }
 
+.point{
+    width: 24px;
+    height: 24px;
+}
 
+/* product */
+.bg-circle{
+    background-color: #DEEBFF;
+}
+
+.bg-hire{
+    background-image:url('/assets/img/landing/footer_banner.webp');
+    background-position: left top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
